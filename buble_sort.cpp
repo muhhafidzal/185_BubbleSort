@@ -28,7 +28,7 @@ void input()
 
     for (int i = 0; i < n; i++)
     {
-        cout << "Masukkan Nilai ke - " << i + i <, " : ";
+        cout << "Masukkan Nilai ke - " << i + i << " : ";
         cin >> a[i];
     }
 }
